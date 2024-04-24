@@ -28,6 +28,7 @@ export class HomePage {
   }
 
   async showToast(){
+    //Hello
     // Show the splash for two seconds and then automatically hide it:
 await SplashScreen.show({
   showDuration: 2000,
